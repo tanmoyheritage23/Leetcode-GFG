@@ -53,4 +53,56 @@ public:
          
          return res;
      }
+    
+    /* QuickSelect Algorithm */
+    
+     vector<int> topKFrequent(vector<int>& nums, int k){
+         
+         unordered_map<int,int>mp;
+         for(int it: nums) mp[it]++;
+         
+         // copying the elements into an array for quickselect procedure
+         
+         vector<pair<int,int>>vec;
+         for(auto it: mp) vec.push_back({it.first,it.second});  // {element,frequency}
+         
+         int n = vec.size();
+         int left = 0; int right = n - 1;
+         int pivotIndex;
+         //We know that once you select a pivot, and partition the array to find it's final position, all the elements to the left of the pivot are smaller than it,
+         //and all the elements to the right are larger than it.
+         
+         //Now if we end up partitioning the array at exactly n - k position i.e. we choose a pivot element in such a way that its final position is at n - k index 
+         //because then only all the elements to its right will have k greatest frequency elements (we are sorting based on frequency)
+         while(left <= right){
+           pivotIndex = partition(vec,left,right);
+           
+             if(pivotIndex == n - k) break;
+             
+             else if(pivotIndex > n - k) right = pivotIndex - 1;
+             
+             else left = pivotIndex + 1;
+             
+         }
+         
+         int k = 0;
+         vector<int>res(k);
+         for(int i = pivotIndex; i < n; i++){
+             res[k++] = vec[i].first;
+         }
+         
+         return res;
+     }
+    
+    int partition(vector<pair<int,int>>& vec, int left, int right){
+        int i = left; auto pivot = vec[right];
+        for(int j = left; j <= right - 1; j++){
+            if(vec[j].second <= pivot.second){
+                swap(vec[j],vec[i]);
+                i++;
+            }
+        }
+        swap(vec[i],vec[right]);
+        return i;
+    }
 };
