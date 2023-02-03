@@ -1,5 +1,5 @@
 class Solution
-{
+{ // For explanation watch striver dp-50 && read this discussion https://leetcode.com/problems/minimum-cost-to-cut-a-stick/discuss/1222820/c%2B%2B-DP-top-down-approach-(idea-similar-to-MCM)
     public:
         int helper(int i, int j, vector<int> &cuts, vector<vector< int>> &dp)
         {
