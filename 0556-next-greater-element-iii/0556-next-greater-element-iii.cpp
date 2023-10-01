@@ -15,14 +15,14 @@ public:
         
         if(firstDeflectionPoint == -1) return -1;
         
-        for(int i = firstDeflectionPoint+1; i < len; i++){
+        for(int i = firstDeflectionPoint+1; i < len; i++){ // we want a number which is just greater than the num[firstDeflectionPoint] cuz we need to find smallest number which is just greater than n or num so to say
             if(num[i]-'0'>num[firstDeflectionPoint]-'0'){
                 secondDeflectionPoint = i;
             }
         }
         
         swap(num[firstDeflectionPoint], num[secondDeflectionPoint]);
-        sort(num.begin()+firstDeflectionPoint+1,num.end());
+        sort(num.begin()+firstDeflectionPoint+1,num.end()); // try this example 1432
         
         long long ans = stoll(num);
         
