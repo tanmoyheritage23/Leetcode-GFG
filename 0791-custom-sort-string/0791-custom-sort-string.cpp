@@ -4,27 +4,22 @@ class Solution
         string customSortString(string order, string s)
         {
             unordered_map<char, int> mp;
-            vector<int> present(300,0);
             string ans = "";
             for (char ch: s) mp[ch]++;
             for (char ch: order)
             {
-                if (mp[ch])
+
+                while (mp[ch]--)
                 {
-                    while (mp[ch]--)
-                    {
-                        ans += ch;
-                    }
+                    ans += ch;
                 }
-                present[ch] = 1;
             }
 
-            string rest = "";
-            for (char ch: s)
+            for (auto &[ch, count]: mp)
             {
-                if (!present[ch]) rest += ch;
+                while (count-- > 0) ans += ch;
             }
 
-            return ans + rest;
+            return ans;
         }
 };
