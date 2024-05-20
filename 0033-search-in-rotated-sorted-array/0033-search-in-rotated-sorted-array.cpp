@@ -3,39 +3,29 @@ class Solution
     public:
         int search(vector<int> &nums, int target)
         {
-           	// at any point either the right half will be sorted or the left half will be sorted. now if the left half is sorted then check wheather the target is in left half or not. if it is in left half then eliminate the right half else eliminate the left half. If the right half is sorted then do the same thing
-            int low = 0;
-            int high = nums.size() - 1;
-            while (low <= high)
+            int n = nums.size();
+            int ans = -1;
+
+            int l = 0, r = n - 1;
+
+            while (l <= r)
             {
-                int mid = (low + high) / 2;
-                if (nums[mid] == target) return mid;
-               	// left half is sorted
-                else if (nums[mid] >= nums[low])
+                int mid = (l + r) / 2;
+
+                if (nums[mid] == target) ans = mid;
+
+                if (nums[mid] >= nums[0])	// We are in the first increasing sequence
                 {
-                    if (nums[low] <= target && nums[mid] >= target)
-                    {
-                        high = mid - 1;
-                    }
-                    else
-                    {
-                        low = mid + 1;
-                    }
+                    if (nums[mid] < target || nums[0] > target) l = mid + 1;
+                    else r = mid - 1;
                 }
-               	// right half is sorted
-                else
+                else	// We are in the second increasing sequence
                 {
-                    if (nums[mid] <= target && nums[high] >= target)
-                    {
-                        low = mid + 1;
-                    }
-                    else
-                    {
-                        high = mid - 1;
-                    }
+                    if (nums[mid] > target || nums[n - 1] < target) r = mid - 1;
+                    else l = mid + 1;
                 }
             }
 
-            return -1;
+            return ans;
         }
 };
