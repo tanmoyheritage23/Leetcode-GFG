@@ -1,3 +1,6 @@
+
+/* Try to explore all posible index of the string one by one and check if it's a palindrome or not. if not then move on to next index , otherwise push that substring into your current path and call recursion for rest(i+1,s) of the string to check palindrome-partitioning. when the recursion is over make sure to delete the last/recent substring from your path */
+
 class Solution {
 public:
     vector<vector<string>> partition(string s) {
