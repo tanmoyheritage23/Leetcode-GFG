@@ -39,17 +39,16 @@ private:
     }
 
     bool canForm(const string& word, unordered_map<char, int>& letterCount) {
-        unordered_map<char, int> tempCount(letterCount);
 
         for (char ch : word) {
-            if (tempCount[ch] > 0) {
-                tempCount[ch]--;
+            if (letterCount[ch] > 0) {
+                letterCount[ch]--;    // update the original map to reflect the used letters
             } else {
                 return false;
             }
         }
 
-        letterCount = tempCount; // update the original map to reflect the used letters
+
         return true;
     }
 
