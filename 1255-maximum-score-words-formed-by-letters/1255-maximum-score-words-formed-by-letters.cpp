@@ -26,11 +26,15 @@ private:
         }
 
         unordered_map<char, int> temp(letterCount); // create a copy for backtracking
+        // for(auto &[key,val]:temp){
+        //     cout<<key<<"->"<<val<<",";
+        // }
+        // cout<<endl;
 
         // Include the current word if possible
         if (canForm(words[index], temp)) {
             currSet.push_back(words[index]);
-            findMaxScore(index + 1, words, temp, freq, maxScore, currSet);
+            findMaxScore(index + 1, words, temp, freq, maxScore, currSet); //The temp map should be passed by value in recursive calls to ensure each recursive path has its own state.
             currSet.pop_back();
         }
 
