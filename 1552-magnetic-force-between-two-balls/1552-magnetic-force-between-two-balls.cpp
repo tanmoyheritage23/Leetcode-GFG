@@ -13,14 +13,13 @@ class Solution
                 {
                     ball++;
                     lastPosition = currPosition;
-                    if (ball == m)
-                    {
-                        return true;
-                    }
+                    
                 }
+                
+                if(ball == m) break;
             }
 
-            return false;
+            return ball == m;
         }
     public:
         int maxDistance(vector<int> &position, int m)
