@@ -10,8 +10,10 @@ var timeLimit = function(fn, t) {
             const id = setTimeout(() => reject("Time Limit Exceeded"), t);
             try{
                 const res = await fn(...args);
+                clearTimeout(id);
                 resolve(res);
             }catch(err){
+                clearTimeout(id);
                 reject(err);
             }
         });
