@@ -16,13 +16,15 @@ public:
             string line;
             int spaces = maxWidth - lineLength;
             int gaps = j - i - 1;
-
+            //single word or last line
             if (gaps == 0 || j == n) {
                 for (int k = i; k < j; k++) {
                     line += words[k];
                     if (k < j - 1) line += " ";
                 }
+                //cout<<maxWidth-line.length()<<endl;
                 line += string(maxWidth - line.length(), ' ');
+                
             } else {
                 int spaceBetween = spaces / gaps;
                 int extraSpaces = spaces % gaps;
