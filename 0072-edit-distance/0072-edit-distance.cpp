@@ -28,7 +28,10 @@ public:
                     dp[i][j] = dp[i - 1][j - 1];
                 } else {
                     // min(replace, delete, insert) + 1 <-- since an op was needed
-                    dp[i][j] = min(dp[i - 1][j - 1], min(dp[i - 1][j], dp[i][j - 1])) + 1;
+                    int deletion = 1 + dp[i-1][j];
+                    int insertion = 1 + dp[i][j-1];
+                    int replacement = 1 + dp[i-1][j-1];
+                    dp[i][j] = min(deletion, min(insertion, replacement));
                 }
             }
         }
