@@ -35,4 +35,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0128-longest-consecutive-sequence) |
+## Depth-First Search
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0744-network-delay-time) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0744-network-delay-time) |
+## Graph
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0744-network-delay-time) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
