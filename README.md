@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0005-longest-palindromic-substring) |
+| [0027-remove-element](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0027-remove-element) |
 ## String
 |  |
 | ------- |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0027-remove-element) |
 | [0128-longest-consecutive-sequence](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Hash Table
