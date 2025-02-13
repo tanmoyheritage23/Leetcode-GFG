@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0260-single-number-iii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0260-single-number-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,4 +69,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0036-valid-sudoku) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0260-single-number-iii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
