@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0268-missing-number) |
 ## Recursion
