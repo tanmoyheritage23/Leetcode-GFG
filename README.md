@@ -50,21 +50,25 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0128-longest-consecutive-sequence) |
+| [2213-find-all-people-with-secret](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2213-find-all-people-with-secret) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0207-course-schedule) |
 | [0744-network-delay-time](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0744-network-delay-time) |
+| [2213-find-all-people-with-secret](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2213-find-all-people-with-secret) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0207-course-schedule) |
 | [0744-network-delay-time](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0744-network-delay-time) |
+| [2213-find-all-people-with-secret](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2213-find-all-people-with-secret) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0207-course-schedule) |
 | [0744-network-delay-time](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0744-network-delay-time) |
+| [2213-find-all-people-with-secret](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2213-find-all-people-with-secret) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -93,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0268-missing-number) |
+| [2213-find-all-people-with-secret](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2213-find-all-people-with-secret) |
 ## Prefix Sum
 |  |
 | ------- |
