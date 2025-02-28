@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0027-remove-element](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0036-valid-sudoku) |
+| [0051-n-queens](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0051-n-queens) |
 | [0128-longest-consecutive-sequence](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0260-single-number-iii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0260-single-number-iii) |
@@ -131,4 +132,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
