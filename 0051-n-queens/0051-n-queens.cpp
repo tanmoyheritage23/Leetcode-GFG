@@ -1,48 +1,40 @@
-class Solution
-{
-    private:
-        unordered_set<int> cols;	//for Columns
-    unordered_set<int> negDiag;	//for negative diagnals R-C
-    unordered_set<int> posDiag;	//for positive diagnals R+C
-    void backtrack(int row, int n, vector < string> &board, vector< vector< string>> &ans)
-    {
-       	// found a valid soln
-        if (row == n)
-        {
+class Solution {
+    unordered_set<int> rowPosition;
+    unordered_set<int> posDiagonal;
+    unordered_set<int> negDiagonal;
+
+private:
+    void backtrack(int col, int n, vector<string>& board,
+                   vector<vector<string>>& ans) {
+        if (col == n) {
             ans.push_back(board);
             return;
         }
 
-        for (int col = 0; col < n; col++)
-        {
-            if (cols.find(col) != cols.end() or negDiag.find(row - col) != negDiag.end() or posDiag.find(row + col) != posDiag.end())
-            {
+        for (int row = 0; row < n; row++) {
+            if (rowPosition.find(row) != rowPosition.end() || posDiagonal.find(row - col) != posDiagonal.end() ||
+                negDiagonal.find(row + col) != negDiagonal.end()) {
                 continue;
             }
-
-           	// placing queen
-            cols.insert(col);
-            negDiag.insert(row - col);
-            posDiag.insert(row + col);
+            rowPosition.insert(row);
+            posDiagonal.insert(row - col);
+            negDiagonal.insert(row + col);
             board[row][col] = 'Q';
 
-           	// Will try to place next queen in the next row
-            backtrack(row + 1, n, board, ans);
+            backtrack(col + 1, n, board, ans);
 
-           	// after recursion call is over we will backtrack and will try to explore different positions
-
-            cols.erase(col);
-            negDiag.erase(row - col);
-            posDiag.erase(row + col);
+            rowPosition.erase(row);
+            posDiagonal.erase(row - col);
+            negDiagonal.erase(row + col);
             board[row][col] = '.';
         }
     }
-    public:
-        vector<vector < string>> solveNQueens(int n)
-        {
-            vector<vector < string>> ans;
-            vector < string> board(n, string(n,'.'));
-            backtrack(0, n, board, ans);
-            return ans;
-        }
+
+public:
+    vector<vector<string>> solveNQueens(int n) {
+        vector<vector<string>> ans;
+        vector<string> board(n, string(n, '.'));
+        backtrack(0, n, board, ans);
+        return ans;
+    }
 };
