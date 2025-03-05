@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0005-longest-palindromic-substring) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Dynamic Programming
 |  |
@@ -140,4 +141,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0051-n-queens](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0052-n-queens-ii) |
+## Stack
+|  |
+| ------- |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 <!---LeetCode Topics End-->
