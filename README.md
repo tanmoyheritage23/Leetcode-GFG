@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0027-remove-element) |
 ## String
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0036-valid-sudoku) |
@@ -150,4 +152,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0020-valid-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
