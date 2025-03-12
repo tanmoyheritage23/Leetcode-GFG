@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0523-continuous-subarray-sum) |
+| [0593-valid-square](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0593-valid-square) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Recursion
 |  |
@@ -168,4 +169,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0042-trapping-rain-water) |
+## Geometry
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
