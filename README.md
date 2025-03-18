@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0498-diagonal-traverse](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0523-continuous-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0739-daily-temperatures) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Hash Table
 |  |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0739-daily-temperatures) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Greedy
 |  |
@@ -173,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0739-daily-temperatures) |
 ## Geometry
 |  |
 | ------- |
