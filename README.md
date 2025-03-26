@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0136-single-number](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0268-missing-number) |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0191-number-of-1-bits) |
 ## Tree
 |  |
