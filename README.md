@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0208-implement-trie-prefix-tree) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Dynamic Programming
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0523-continuous-subarray-sum) |
 ## Union Find
@@ -222,4 +224,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0208-implement-trie-prefix-tree) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
