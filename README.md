@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0371-sum-of-two-integers) |
 | [0523-continuous-subarray-sum](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0523-continuous-subarray-sum) |
 | [0593-valid-square](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0593-valid-square) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0371-sum-of-two-integers) |
 ## Sorting
 |  |
 | ------- |
