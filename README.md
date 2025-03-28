@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0084-largest-rectangle-in-histogram) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0213-house-robber-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0213-house-robber-ii) |
@@ -87,11 +88,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0130-surrounded-regions) |
 | [0801-is-graph-bipartite](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0801-is-graph-bipartite) |
 | [2213-find-all-people-with-secret](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2213-find-all-people-with-secret) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0207-course-schedule) |
 | [0337-house-robber-iii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0337-house-robber-iii) |
 | [0744-network-delay-time](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0744-network-delay-time) |
@@ -100,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0207-course-schedule) |
 | [0744-network-delay-time](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0801-is-graph-bipartite) |
@@ -130,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0036-valid-sudoku) |
+| [0130-surrounded-regions](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0130-surrounded-regions) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0498-diagonal-traverse](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0498-diagonal-traverse) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1171-shortest-path-in-binary-matrix) |
