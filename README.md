@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0128-longest-consecutive-sequence) |
+| [0801-is-graph-bipartite](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0801-is-graph-bipartite) |
 | [2213-find-all-people-with-secret](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2213-find-all-people-with-secret) |
 ## Depth-First Search
 |  |
@@ -94,12 +95,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0207-course-schedule) |
 | [0337-house-robber-iii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0337-house-robber-iii) |
 | [0744-network-delay-time](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0744-network-delay-time) |
+| [0801-is-graph-bipartite](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0801-is-graph-bipartite) |
 | [2213-find-all-people-with-secret](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2213-find-all-people-with-secret) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0207-course-schedule) |
 | [0744-network-delay-time](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0744-network-delay-time) |
+| [0801-is-graph-bipartite](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0801-is-graph-bipartite) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2213-find-all-people-with-secret](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2213-find-all-people-with-secret) |
 ## Graph
@@ -107,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0207-course-schedule) |
 | [0744-network-delay-time](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0744-network-delay-time) |
+| [0801-is-graph-bipartite](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0801-is-graph-bipartite) |
 | [2213-find-all-people-with-secret](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2213-find-all-people-with-secret) |
 ## Heap (Priority Queue)
 |  |
