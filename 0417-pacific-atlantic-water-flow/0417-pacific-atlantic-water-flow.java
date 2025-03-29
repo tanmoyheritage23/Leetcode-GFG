@@ -7,13 +7,13 @@ class Solution {
         boolean[][] atlanticReachable = new boolean[numRows][numCols];
 
         for (int i = 0; i < numRows; i++) {
-            dfs(heights, pacificReachable, i, 0);
-            dfs(heights, atlanticReachable, i, numCols - 1);
+            if(pacificReachable[i][0]==false) dfs(heights, pacificReachable, i, 0);
+            if(atlanticReachable[i][numCols-1]==false) dfs(heights, atlanticReachable, i, numCols - 1);
         }
 
         for (int j = 0; j < numCols; j++) {
-            dfs(heights, pacificReachable, 0, j);
-            dfs(heights, atlanticReachable, numRows - 1, j);
+            if(pacificReachable[0][j]==false) dfs(heights, pacificReachable, 0, j);
+            if(atlanticReachable[numRows-1][j]==false) dfs(heights, atlanticReachable, numRows - 1, j);
         }
 
         List<List<Integer>> result = new ArrayList<>();
