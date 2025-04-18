@@ -19,11 +19,10 @@ class Solution {
 
                 String key = new String(keyBuilder);
 
-               if(!anagramMap.containsKey(key)){
+               /*if(!anagramMap.containsKey(key)){
                     anagramMap.put(key, new ArrayList<>());
-                }
-
-                anagramMap.get(key).add(word);
+                }*/
+                anagramMap.computeIfAbsent(key, k->new ArrayList<>()).add(word);
                 
             }
 
