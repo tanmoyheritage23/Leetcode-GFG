@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0213-house-robber-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0213-house-robber-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0300-longest-increasing-subsequence) |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0300-longest-increasing-subsequence) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
@@ -156,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0130-surrounded-regions) |
+| [0240-search-a-2d-matrix-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0240-search-a-2d-matrix-ii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0498-diagonal-traverse) |
@@ -250,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0190-reverse-bits](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0191-number-of-1-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0240-search-a-2d-matrix-ii) |
 ## Tree
 |  |
 | ------- |
