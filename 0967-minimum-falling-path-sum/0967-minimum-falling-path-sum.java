@@ -13,7 +13,7 @@ class Solution {
 
     private int calculateMinSum(int row, int col, int[][] matrix, int n, Integer[][] memo) {
         if (col < 0 || col >= n) return Integer.MAX_VALUE; // Out of bounds
-        if (row == n - 1) return matrix[row][col]; // Base case: last row
+        if (row == n ) return 0; // Base case: last row
 
         if (memo[row][col] != null) return memo[row][col];
 
@@ -22,6 +22,7 @@ class Solution {
         int downRight = calculateMinSum(row + 1, col + 1, matrix, n, memo);
 
         memo[row][col] = matrix[row][col] + Math.min(down, Math.min(downLeft, downRight));
+        System.out.println("memo[" + row + "][" + col + "] = " + memo[row][col]);
         return memo[row][col];
     }
 }
