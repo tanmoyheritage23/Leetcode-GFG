@@ -6,7 +6,11 @@ public:
             xors ^= num;
         }
 
-        int rightMostSetBit = xors & -(unsigned int)xors;
+     int rightMostSetBit = 1;
+
+     while((rightMostSetBit & xors) == 0){
+        rightMostSetBit = rightMostSetBit << 1;
+     }
 
         int a = 0, b = 0;
 
