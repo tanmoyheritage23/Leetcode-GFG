@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0100-same-tree) |
 | [0113-path-sum-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0113-path-sum-ii) |
 | [0130-surrounded-regions](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0207-course-schedule) |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0102-binary-tree-level-order-traversal) |
 | [0130-surrounded-regions](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0207-course-schedule) |
@@ -285,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0102-binary-tree-level-order-traversal) |
 | [0113-path-sum-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0113-path-sum-ii) |
 | [0337-house-robber-iii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0337-house-robber-iii) |
@@ -292,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0102-binary-tree-level-order-traversal) |
 | [0113-path-sum-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0113-path-sum-ii) |
 | [0337-house-robber-iii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0337-house-robber-iii) |
