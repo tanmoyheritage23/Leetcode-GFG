@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-network-delay-time](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0801-is-graph-bipartite) |
 | [2213-find-all-people-with-secret](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2213-find-all-people-with-secret) |
+| [2439-longest-cycle-in-a-graph](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2439-longest-cycle-in-a-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2213-find-all-people-with-secret](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2213-find-all-people-with-secret) |
+| [2439-longest-cycle-in-a-graph](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2439-longest-cycle-in-a-graph) |
 ## Graph
 |  |
 | ------- |
@@ -156,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-network-delay-time](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0801-is-graph-bipartite) |
 | [2213-find-all-people-with-secret](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2213-find-all-people-with-secret) |
+| [2439-longest-cycle-in-a-graph](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2439-longest-cycle-in-a-graph) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -226,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0207-course-schedule) |
+| [2439-longest-cycle-in-a-graph](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2439-longest-cycle-in-a-graph) |
 ## Linked List
 |  |
 | ------- |
