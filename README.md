@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0739-daily-temperatures) |
+| [0817-design-hashmap](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0817-design-hashmap) |
 | [0948-sort-an-array](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1036-rotting-oranges) |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0525-contiguous-array) |
 | [0807-custom-sort-string](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0807-custom-sort-string) |
+| [0817-design-hashmap](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0817-design-hashmap) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 ## Union Find
 |  |
@@ -241,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0002-add-two-numbers) |
+| [0817-design-hashmap](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0817-design-hashmap) |
 ## Simulation
 |  |
 | ------- |
@@ -332,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0208-implement-trie-prefix-tree) |
+| [0817-design-hashmap](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0817-design-hashmap) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -352,4 +356,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0948-sort-an-array) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
