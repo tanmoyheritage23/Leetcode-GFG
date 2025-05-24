@@ -10,6 +10,7 @@ class Solution {
             for (int j = i - 1; j >= 1; j--) {
                 if (nums[i-1] > nums[j-1]) {
                     dp[i] = Math.max(dp[i], 1 + dp[j]);
+                    
                 }
             }
             length = Math.max(length, dp[i]);
