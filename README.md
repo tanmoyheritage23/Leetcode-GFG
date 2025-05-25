@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0300-longest-increasing-subsequence) |
 | [0337-house-robber-iii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0337-house-robber-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0967-minimum-falling-path-sum) |
+| [1121-partition-array-for-maximum-sum](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1121-partition-array-for-maximum-sum) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 ## Math
 |  |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1036-rotting-oranges) |
+| [1121-partition-array-for-maximum-sum](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1121-partition-array-for-maximum-sum) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1171-shortest-path-in-binary-matrix) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 ## Hash Table
