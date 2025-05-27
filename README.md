@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0208-implement-trie-prefix-tree) |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0042-trapping-rain-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0300-longest-increasing-subsequence) |
@@ -81,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0213-house-robber-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0221-maximal-square) |
@@ -116,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0268-missing-number) |
@@ -265,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0139-word-break) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 ## Backtracking
 |  |
@@ -335,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0208-implement-trie-prefix-tree) |
 ## Design
 |  |
