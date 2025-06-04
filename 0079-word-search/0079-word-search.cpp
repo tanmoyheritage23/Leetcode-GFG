@@ -5,7 +5,7 @@ class Solution
         {
             if (x == word.size()) return true;
             if (i < 0 || i >= n || j < 0 || j >= m || board[i][j] == '*' || board[i][j] != word[x]) return false;
-            if (word.size() == 1 && board[i][j] == word[x]) return true;
+            //if (word.size() == 1 && board[i][j] == word[x]) return true;
             board[i][j] = '*';
             bool temp = false;
             int dx[4] = { 0,
