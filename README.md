@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0205-isomorphic-strings) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0100-same-tree) |
@@ -213,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0036-valid-sudoku](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0130-surrounded-regions) |
 | [0221-maximal-square](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0240-search-a-2d-matrix-ii) |
@@ -292,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0051-n-queens](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0052-n-queens-ii) |
+| [0079-word-search](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0113-path-sum-ii) |
 ## Stack
 |  |
