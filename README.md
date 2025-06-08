@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0079-word-search](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0100-same-tree) |
@@ -310,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0227-basic-calculator-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0394-decode-string) |
 | [0503-next-greater-element-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0503-next-greater-element-ii) |
@@ -350,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0100-same-tree) |
@@ -363,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0100-same-tree) |
