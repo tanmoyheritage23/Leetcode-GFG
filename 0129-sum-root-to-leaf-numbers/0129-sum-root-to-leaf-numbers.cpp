@@ -17,9 +17,11 @@ class Solution
             if(!root) return 0;
             curr = curr*10 + root->val;
             if(!root->left && !root->right) return curr;
+            else{
             int l = solve(root->left,curr);
             int r = solve(root->right,curr);
             return l+r;
+            }
         }
     public:
         int sumNumbers(TreeNode *root)
