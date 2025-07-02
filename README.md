@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0160-intersection-of-two-linked-lists) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0658-find-k-closest-elements) |
 ## String
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0268-missing-number) |
@@ -291,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0092-reverse-linked-list-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0160-intersection-of-two-linked-lists) |
 | [0460-lfu-cache](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0460-lfu-cache) |
 | [0817-design-hashmap](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0817-design-hashmap) |
 ## Simulation
