@@ -1,5 +1,7 @@
 class Solution {
     public int maximalSquare(char[][] matrix) {
+        if(matrix == null || matrix.length == 0 || matrix[0].length == 0) return 0;
+
         int n = matrix.length;
         int m = matrix[0].length;
 
