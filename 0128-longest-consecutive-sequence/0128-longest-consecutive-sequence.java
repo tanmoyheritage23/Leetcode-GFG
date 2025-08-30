@@ -11,7 +11,7 @@ class Solution {
 
         for (int num : numSet) {
             
-            if (!numSet.contains(num - 1)) {
+            if (!numSet.contains(num - 1)) { // This num could be the staring point 
                 int currentNum = num;
                 int count = 1;
 
