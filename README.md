@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0050-powx-n) |
 | [0227-basic-calculator-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0268-missing-number) |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0054-spiral-matrix) |
@@ -236,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0079-word-search) |
