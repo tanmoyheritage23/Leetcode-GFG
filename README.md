@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0169-majority-element) |
 | [0213-house-robber-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0240-search-a-2d-matrix-ii) |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0268-missing-number) |
@@ -268,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -367,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0240-search-a-2d-matrix-ii) |
@@ -435,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0948-sort-an-array) |
 ## Hash Function
