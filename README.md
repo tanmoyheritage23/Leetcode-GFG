@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0817-design-hashmap](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0817-design-hashmap) |
 | [0948-sort-an-array](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0967-minimum-falling-path-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1004-max-consecutive-ones-iii) |
 | [1036-rotting-oranges](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1121-partition-array-for-maximum-sum](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1121-partition-array-for-maximum-sum) |
@@ -235,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0658-find-k-closest-elements](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0658-find-k-closest-elements) |
+| [1004-max-consecutive-ones-iii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1004-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Matrix
 |  |
@@ -285,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0523-continuous-subarray-sum](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0525-contiguous-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1004-max-consecutive-ones-iii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -365,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0413-arithmetic-slices](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0413-arithmetic-slices) |
 | [0643-maximum-average-subarray-i](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0658-find-k-closest-elements) |
+| [1004-max-consecutive-ones-iii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
