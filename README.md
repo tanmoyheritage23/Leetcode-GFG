@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0394-decode-string) |
 | [0807-custom-sort-string](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0807-custom-sort-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Dynamic Programming
 |  |
@@ -288,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0525-contiguous-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1004-max-consecutive-ones-iii) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Ordered Set
 |  |
 | ------- |
