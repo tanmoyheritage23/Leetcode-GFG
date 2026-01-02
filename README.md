@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0817-design-hashmap](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0817-design-hashmap) |
 | [0840-magic-squares-in-grid](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0840-magic-squares-in-grid) |
 | [0948-sort-an-array](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0948-sort-an-array) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0967-minimum-falling-path-sum](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0967-minimum-falling-path-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1004-max-consecutive-ones-iii) |
 | [1036-rotting-oranges](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1036-rotting-oranges) |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0807-custom-sort-string](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0807-custom-sort-string) |
 | [0817-design-hashmap](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0817-design-hashmap) |
 | [0840-magic-squares-in-grid](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0840-magic-squares-in-grid) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2402-meeting-rooms-iii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2402-meeting-rooms-iii) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 ## Union Find
