@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0740-delete-and-earn](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0740-delete-and-earn) |
 | [0967-minimum-falling-path-sum](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0967-minimum-falling-path-sum) |
 | [1121-partition-array-for-maximum-sum](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1121-partition-array-for-maximum-sum) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 ## Math
 |  |
