@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0523-continuous-subarray-sum) |
 | [0593-valid-square](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0593-valid-square) |
 | [0840-magic-squares-in-grid](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0840-magic-squares-in-grid) |
+| [1390-four-divisors](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1390-four-divisors) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Recursion
 |  |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1121-partition-array-for-maximum-sum](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1121-partition-array-for-maximum-sum) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1390-four-divisors](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1390-four-divisors) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2402-meeting-rooms-iii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2402-meeting-rooms-iii) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
