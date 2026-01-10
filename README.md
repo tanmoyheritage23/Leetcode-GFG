@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0840-magic-squares-in-grid](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2402-meeting-rooms-iii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2402-meeting-rooms-iii) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 ## Union Find
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-network-delay-time](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0801-is-graph-bipartite) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2213-find-all-people-with-secret](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2213-find-all-people-with-secret) |
@@ -223,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0801-is-graph-bipartite) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1036-rotting-oranges](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1036-rotting-oranges) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2213-find-all-people-with-secret](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2213-find-all-people-with-secret) |
@@ -426,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0337-house-robber-iii) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
 |  |
@@ -443,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0337-house-robber-iii) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Trie
 |  |
