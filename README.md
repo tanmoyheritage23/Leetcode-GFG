@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0227-basic-calculator-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0227-basic-calculator-ii) |
 | [0290-word-pattern](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0290-word-pattern) |
 | [0394-decode-string](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0394-decode-string) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0807-custom-sort-string](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0807-custom-sort-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0337-house-robber-iii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0337-house-robber-iii) |
 | [0413-arithmetic-slices](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0413-arithmetic-slices) |
 | [0518-coin-change-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0518-coin-change-ii) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0740-delete-and-earn) |
 | [0967-minimum-falling-path-sum](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0967-minimum-falling-path-sum) |
 | [1121-partition-array-for-maximum-sum](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1121-partition-array-for-maximum-sum) |
