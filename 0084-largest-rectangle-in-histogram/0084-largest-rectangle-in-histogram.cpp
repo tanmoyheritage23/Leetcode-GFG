@@ -37,8 +37,8 @@ class Solution
                 {
                     st.pop();
                 }
-                if (st.empty()) leftSmall[i] = 0;
-                else leftSmall[i] = st.top() + 1;
+                if (st.empty()) leftSmall[i] = -1;
+                else leftSmall[i] = st.top();
                 st.push(i);
             }
 
@@ -52,14 +52,14 @@ class Solution
                 {
                     st.pop();
                 }
-                if (st.empty()) rightSmall[i] = n - 1;
-                else rightSmall[i] = st.top() - 1;
+                if (st.empty()) rightSmall[i] = n;
+                else rightSmall[i] = st.top();
                 st.push(i);
             }
             int maxArea = 0;
             for (int i = 0; i < n; i++)
             {
-                int area = heights[i] *(rightSmall[i] - leftSmall[i] + 1);
+                int area = heights[i] *(rightSmall[i] - leftSmall[i] - 1);
                 maxArea = max(maxArea, area);
             }
             return maxArea;
