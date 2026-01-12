@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0523-continuous-subarray-sum) |
 | [0593-valid-square](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0593-valid-square) |
 | [0840-magic-squares-in-grid](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0840-magic-squares-in-grid) |
+| [1266-minimum-time-visiting-all-points](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1390-four-divisors) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Recursion
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1121-partition-array-for-maximum-sum](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1121-partition-array-for-maximum-sum) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1266-minimum-time-visiting-all-points](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -402,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0593-valid-square) |
+| [1266-minimum-time-visiting-all-points](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1266-minimum-time-visiting-all-points) |
 ## Sliding Window
 |  |
 | ------- |
