@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1458-max-dot-product-of-two-subsequences](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2402-meeting-rooms-iii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2402-meeting-rooms-iii) |
+| [3453-separate-squares-i](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3453-separate-squares-i) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 ## Hash Table
 |  |
@@ -272,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1970-last-day-where-you-can-still-cross) |
+| [3453-separate-squares-i](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3453-separate-squares-i) |
 ## Matrix
 |  |
 | ------- |
