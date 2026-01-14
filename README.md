@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1970-last-day-where-you-can-still-cross](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2402-meeting-rooms-iii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2402-meeting-rooms-iii) |
 | [3453-separate-squares-i](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3454-separate-squares-ii) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 ## Hash Table
 |  |
@@ -274,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3453-separate-squares-i](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3454-separate-squares-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -507,4 +509,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0146-lru-cache](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0460-lfu-cache) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
