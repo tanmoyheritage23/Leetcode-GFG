@@ -444,6 +444,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0337-house-robber-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0450-delete-node-in-a-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -462,6 +463,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0337-house-robber-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0450-delete-node-in-a-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -484,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0450-delete-node-in-a-bst) |
 ## Merge Sort
 |  |
 | ------- |
