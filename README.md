@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0050-powx-n) |
 | [0394-decode-string](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0394-decode-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -353,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0160-intersection-of-two-linked-lists) |
 | [0460-lfu-cache](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0460-lfu-cache) |
 | [0817-design-hashmap](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0817-design-hashmap) |
+| [2487-remove-nodes-from-linked-list](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2487-remove-nodes-from-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -393,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0739-daily-temperatures) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [2487-remove-nodes-from-linked-list](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2487-remove-nodes-from-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -406,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0739-daily-temperatures) |
+| [2487-remove-nodes-from-linked-list](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2487-remove-nodes-from-linked-list) |
 ## Geometry
 |  |
 | ------- |
