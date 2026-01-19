@@ -9,49 +9,36 @@
  * }
  */
 class Solution {
-    private ListNode reverseList(ListNode head) {
-        ListNode prev = null;
-        ListNode current = head;
-        ListNode nextTemp = null;
-
-        // Set each node's next pointer to the previous node
-        while (current != null) {
-            nextTemp = current.next;
-            current.next = prev;
-            prev = current;
-            current = nextTemp;
-        }
-        
-        return prev;
-    }
-
     public ListNode removeNodes(ListNode head) {
-        // Reverse the original linked list
-        head = reverseList(head);
-
-        int maximum = 0;
-        ListNode prev = null;
+        Stack<ListNode> stack = new Stack<>();
         ListNode current = head;
 
-        // Traverse the list deleting nodes
+        // Add nodes to the stack
         while (current != null) {
-            maximum = Math.max(maximum, current.val);
+            stack.push(current);
+            current = current.next;
+        }
 
-            // Delete nodes that are smaller than maximum
+        current = stack.pop();
+        int maximum = current.val;
+        ListNode resultList = new ListNode(maximum);
+
+        // Remove nodes from the stack and add to result
+        while (!stack.isEmpty()) {
+            current = stack.pop();
+            // Current should not be added to the result
             if (current.val < maximum) {
-                // Delete current by skipping
-                prev.next = current.next;
-                current = current.next;
+                continue;
             }
-
-            // Current does not need to be deleted
+            // Add new node with current's value to front of the result
             else {
-                prev = current;
-                current = current.next;
+                ListNode newNode = new ListNode(current.val);
+                newNode.next = resultList;
+                resultList = newNode;
+                maximum = current.val;
             }
         }
-        
-        // Reverse and return the modified linked list
-        return reverseList(head);
+
+        return resultList;
     }
 }
