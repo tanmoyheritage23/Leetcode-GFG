@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0658-find-k-closest-elements) |
 | [0733-flood-fill](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0733-flood-fill) |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0460-lfu-cache](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0460-lfu-cache) |
 | [0523-continuous-subarray-sum](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0560-subarray-sum-equals-k) |
 | [0740-delete-and-earn](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0740-delete-and-earn) |
 | [0807-custom-sort-string](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0807-custom-sort-string) |
 | [0817-design-hashmap](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0817-design-hashmap) |
@@ -340,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0523-continuous-subarray-sum](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1004-max-consecutive-ones-iii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Ordered Set
