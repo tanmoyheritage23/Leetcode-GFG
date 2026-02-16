@@ -5,11 +5,15 @@ class Solution {
         //Map<Integer,Integer>mp = new HashMap<>();
         int[] result = new int[n];
 
-        for(int i = n - 1; i >= 0; i--){
-             while(!st.isEmpty() && temperatures[st.peek()] <= temperatures[i]) st.pop();
-             if(!st.isEmpty()) result[i] = st.peek() - i;
+        for(int i = 0; i < n; i++){
+            //Stack Operations:
+//Each index is pushed and popped from the stack at most once.
+//Push and pop operations are O(1) each.
 
-             else result[i] = 0;
+             while(!st.isEmpty() && temperatures[st.peek()] < temperatures[i]) {
+                result[st.peek()] = i - st.peek();
+                st.pop();
+             }
 
              st.push(i);
         }
