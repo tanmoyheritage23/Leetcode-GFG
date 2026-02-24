@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0091-decode-ways) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0029-divide-two-integers](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0062-unique-paths) |
 | [0227-basic-calculator-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0371-sum-of-two-integers) |
@@ -383,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0062-unique-paths) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
 |  |
