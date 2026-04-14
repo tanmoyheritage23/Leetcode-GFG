@@ -231,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0744-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0801-is-graph-bipartite) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0744-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0801-is-graph-bipartite) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0994-rotting-oranges](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0994-rotting-oranges) |
@@ -565,4 +567,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0215-kth-largest-element-in-an-array) |
+## Union-Find
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0785-is-graph-bipartite) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
