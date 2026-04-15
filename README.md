@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0807-custom-sort-string](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0807-custom-sort-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Dynamic Programming
 |  |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-special-positions-in-a-binary-matrix](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2402-meeting-rooms-iii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2402-meeting-rooms-iii) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3453-separate-squares-i](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3454-separate-squares-ii) |
