@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3453-separate-squares-i](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3454-separate-squares-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 ## Hash Table
 |  |
@@ -330,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1970-last-day-where-you-can-still-cross) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
