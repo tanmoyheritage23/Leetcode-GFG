@@ -8,8 +8,10 @@ class Solution {
         while (l <= r) {
             int mid = (l + r) / 2;
 
-            if (nums[mid] == target)
+            if (nums[mid] == target) {
                 ans = mid;
+                return ans;
+            }
 
             if (nums[mid] >= nums[0]) // We are in the first increasing sequence
             {
