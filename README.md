@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3453-separate-squares-i](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3454-separate-squares-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 ## Hash Table
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2402-meeting-rooms-iii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2402-meeting-rooms-iii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 ## Union Find
 |  |
@@ -310,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1970-last-day-where-you-can-still-cross](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3453-separate-squares-i](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3454-separate-squares-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
 | ------- |
@@ -582,10 +585,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0785-is-graph-bipartite) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0785-is-graph-bipartite) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Queue
 |  |
 | ------- |
