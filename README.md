@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0337-house-robber-iii) |
 | [0413-arithmetic-slices](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0518-coin-change-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0740-delete-and-earn) |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0413-arithmetic-slices](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0503-next-greater-element-ii) |
