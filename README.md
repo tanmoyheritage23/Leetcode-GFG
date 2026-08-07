@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0394-decode-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
@@ -400,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0206-reverse-linked-list) |
 | [0460-lfu-cache](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0460-lfu-cache) |
 | [0817-design-hashmap](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0817-design-hashmap) |
 | [2487-remove-nodes-from-linked-list](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2487-remove-nodes-from-linked-list) |
