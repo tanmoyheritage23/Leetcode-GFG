@@ -1,25 +1,27 @@
 class Solution {
     public boolean isValid(String s) {
-        Stack<Character> st = new Stack<>();
-            for (int i = 0; i < s.length(); i++)
-            {
-                if (s.charAt(i) == '(' || s.charAt(i) == '{' || s.charAt(i) == '[') st.push(s.charAt(i));
-                else
-                {
-                    if (st.isEmpty()) return false;
-                    char ch = st.pop();
-                    if (s.charAt(i) == ')' && ch == '(' || s.charAt(i) == '}' && ch == '{' || s.charAt(i) == ']' && ch == '[')
-                    {
-                        continue;
-                    }
-                    else
-                    {
-                        return false;
-                    }
-                }
-            }
+        Map<Character,Character> parenthesis = new HashMap<>();
+        parenthesis.put(')','(');
+        parenthesis.put('}','{');
+        parenthesis.put(']','[');
 
-            if (st.isEmpty()) return true;
-            return false;
+        Stack<Character>st = new Stack<>();
+        int i = 0;
+        int n = s.length();
+
+        while( i < n){
+            char ch = s.charAt(i);
+            if(ch == ')' || ch == '}' || ch == ']'){
+                if(!st.isEmpty() && st.peek() == parenthesis.get(ch)){
+                    st.pop();
+                }
+                else return false;
+            }
+            else st.push(ch);
+            i++;
+        }
+
+        return st.isEmpty();
+
     }
 }
