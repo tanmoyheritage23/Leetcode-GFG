@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0221-maximal-square) |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0129-sum-root-to-leaf-numbers](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0337-house-robber-iii) |
@@ -263,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0102-binary-tree-level-order-traversal) |
 | [0130-surrounded-regions](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0417-pacific-atlantic-water-flow) |
@@ -331,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0240-search-a-2d-matrix-ii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
@@ -602,6 +606,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0785-is-graph-bipartite) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
