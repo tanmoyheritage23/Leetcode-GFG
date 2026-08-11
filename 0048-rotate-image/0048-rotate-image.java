@@ -3,16 +3,13 @@ class Solution {
         int n = matrix.length;
         int m = matrix[0].length;
 
-        /* Transpose matrix */
         for(int i = 0; i < n; i++){
-            for(int j = 0; j < i; j++){
+            for(int j = i; j < n; j++){
                 int temp = matrix[i][j];
                 matrix[i][j] = matrix[j][i];
                 matrix[j][i] = temp;
             }
         }
-
-        /* reverse each row */
 
         for(int i = 0; i < n; i++){
             for(int j = 0; j < n/2; j++){
@@ -21,7 +18,5 @@ class Solution {
                 matrix[i][n-1-j] = temp;
             }
         }
-
-        
     }
 }
