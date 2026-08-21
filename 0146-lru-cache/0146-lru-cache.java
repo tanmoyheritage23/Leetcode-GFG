@@ -1,10 +1,10 @@
-class Node{
+class Node {
     int key;
     int val;
     Node next;
     Node prev;
 
-    public Node(int key, int val){
+    public Node(int key, int val) {
         this.key = key;
         this.val = val;
         this.next = null;
@@ -14,20 +14,22 @@ class Node{
 
 class LRUCache {
     private int cap;
-    private Map<Integer,Node>mp;
+    private Map<Integer, Node> mp;
     private Node head;
     private Node tail;
+    private ReentrantLock lock;
 
     public LRUCache(int capacity) {
         this.cap = capacity;
         this.mp = new HashMap<>();
-        this.head = new Node(-1,-1);
-        this.tail = new Node(-1,-1);
+        this.head = new Node(-1, -1);
+        this.tail = new Node(-1, -1);
         this.head.next = tail;
         this.tail.prev = head;
+        this.lock = new ReentrantLock();
     }
 
-    public void insert(Node node){
+    public void insert(Node node) {
         Node temp = head.next;
         node.prev = head;
         head.next = node;
@@ -35,41 +37,51 @@ class LRUCache {
         temp.prev = node;
     }
 
-    public void delete(Node node){
+    public void delete(Node node) {
         Node prevNode = node.prev;
         Node nextNode = node.next;
         prevNode.next = nextNode;
         nextNode.prev = prevNode;
     }
-    
+
     public int get(int key) {
-        if(mp.containsKey(key)){
-            Node node = mp.get(key);
-            delete(node);
-            insert(node);
-            return node.val;
+        lock.lock();
+        try {
+            if (mp.containsKey(key)) {
+                Node node = mp.get(key);
+                delete(node);
+                insert(node);
+                return node.val;
+            }
+        } finally {
+            lock.unlock();
         }
         return -1;
     }
-    
+
     public void put(int key, int value) {
-        if(mp.containsKey(key)){
-            Node node = mp.get(key);
-            delete(node);
-            node.val = value;
-            insert(node);
-            mp.put(key,node);
-        }else{
-            if(mp.size() == cap){
-               Node lru = tail.prev;
-               delete(lru);
-               mp.remove(lru.key);
+        lock.lock();
+        try {
+            if (mp.containsKey(key)) {
+                Node node = mp.get(key);
+                delete(node);
+                node.val = value;
+                insert(node);
+                mp.put(key, node);
+            } else {
+                if (mp.size() == cap) {
+                    Node lru = tail.prev;
+                    delete(lru);
+                    mp.remove(lru.key);
+                }
+                Node newNode = new Node(key, value);
+                insert(newNode);
+                mp.put(key, newNode);
             }
-            Node newNode = new Node(key,value);
-            insert(newNode);
-            mp.put(key,newNode);
+        } finally {
+            lock.unlock();
         }
-        
+
     }
 }
 
