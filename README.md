@@ -641,4 +641,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0056-merge-intervals) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
