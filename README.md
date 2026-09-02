@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0049-group-anagrams) |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0085-maximal-rectangle) |
@@ -94,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0143-reorder-list) |
