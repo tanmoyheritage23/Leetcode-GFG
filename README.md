@@ -262,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0337-house-robber-iii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0337-house-robber-iii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0744-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0801-is-graph-bipartite) |
@@ -285,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0744-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0801-is-graph-bipartite) |
@@ -310,12 +312,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0658-find-k-closest-elements) |
+| [0743-network-delay-time](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0744-network-delay-time) |
 | [0948-sort-an-array](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0948-sort-an-array) |
 | [2402-meeting-rooms-iii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2402-meeting-rooms-iii) |
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0744-network-delay-time) |
 ## Binary Search
 |  |
@@ -635,6 +639,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0133-clone-graph](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0785-is-graph-bipartite) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Queue
@@ -661,4 +666,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0785-is-graph-bipartite) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
