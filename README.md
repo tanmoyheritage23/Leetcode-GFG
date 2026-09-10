@@ -670,4 +670,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0743-network-delay-time) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
