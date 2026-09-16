@@ -13,7 +13,7 @@ class Solution {
         ListNode dummy = new ListNode(0);
         ListNode prev = dummy, first = head;
 
-        prev.next = first;
+        prev.next = first; // edge case -> example 2 and 3
 
         while(first != null && first.next != null){
             ListNode second = first.next;
