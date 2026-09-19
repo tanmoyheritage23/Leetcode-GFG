@@ -195,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3169-count-days-without-meetings](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3169-count-days-without-meetings) |
 | [3453-separate-squares-i](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3454-separate-squares-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -404,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0948-sort-an-array) |
 | [2213-find-all-people-with-secret](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2213-find-all-people-with-secret) |
 | [2402-meeting-rooms-iii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2402-meeting-rooms-iii) |
+| [3169-count-days-without-meetings](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3169-count-days-without-meetings) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 ## Prefix Sum
 |  |
