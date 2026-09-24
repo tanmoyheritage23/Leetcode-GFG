@@ -682,4 +682,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0142-linked-list-cycle-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
