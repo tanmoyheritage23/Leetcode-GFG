@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0221-maximal-square) |
+| [0229-majority-element-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0260-single-number-iii) |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0208-implement-trie-prefix-tree) |
+| [0229-majority-element-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -397,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -609,6 +612,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0948-sort-an-array) |
 ## Hash Function
@@ -686,4 +690,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
