@@ -670,6 +670,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0075-sort-colors) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -691,4 +692,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0229-majority-element-ii) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
