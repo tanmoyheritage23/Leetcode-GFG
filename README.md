@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Hash Table
 |  |
 | ------- |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Union Find
 |  |
 | ------- |
@@ -519,6 +521,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/1004-max-consecutive-ones-iii) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/tanmoyheritage23/Leetcode-GFG/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Divide and Conquer
 |  |
 | ------- |
